@@ -215,7 +215,6 @@ end
 
 def most_points_scored
   
-return "Ben Gordon"
 end
 
 def winning_team
